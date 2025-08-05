@@ -16,5 +16,5 @@ To master core tech skills, stay consistent, and become job-ready in 90 days.
 
 ## 🔗 Follow My Daily Journey
 
-Check my daily posts on [LinkedIn](www.linkedin.com/in/kartik-koul-882237330) using  
+Check my daily posts on [LinkedIn](https://www.linkedin.com/in/kartik-koul-882237330) using  
 *#90DaysOfDevJourney* and #LearningInPublic
